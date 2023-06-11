@@ -1,0 +1,135 @@
+{
+    "airdropInfo": [
+        {
+            "title": "1. Eligibility Criteria:",
+            "content": "To qualify for this airdrop, you're required to follow our Twitter and join our Telegram groups and channels."
+        },
+        {
+            "title": "2. How to Claim Your Tokens:",
+            "content": "Each participant stands to gain a reward of 24,000 + 16,000 Pepenomy Tokens. Please bear in mind that you're entitled to claim these rewards only twice: once from a mobile device and once from the web."
+        },
+        {
+            "title": "3. Allocation of Tokens:",
+            "content": "Participants are eligible to claim 16,000 Tokens via the web platform. In addition, they can claim an additional 50% (equating to 24,000 tokens) from the mobile platform. This means each user can garner a maximum of 40,000 tokens in total."
+        },
+        {
+            "title": "4. Referral Program:",
+            "content": "Increase your token count by participating in our referral program. Share your unique referral link and receive a bonus of 50% of the airdrop amount each time a new participant signs up using your link."
+        },
+        {
+            "title": "5. Token Transfer Rules:",
+            "content": "Please note that any tokens earned through this program cannot be transferred to another wallet until the official launch of Pepenomy Tokens. This rule helps us prevent unauthorized users from adding liquidity prior to the launch."
+        },
+        {
+            "title": "6. Duration of the Airdrop:",
+            "content": "This airdrop will continue either until the predetermined end time is reached or until all tokens have been claimed. Don't miss out on this opportunity!"
+        },
+        {
+            "title": "7. Qualifying for the Referral Bonus:",
+            "content": "To qualify for the referral bonus, you need to ensure that the wallet you're referring already holds Pepenomy Tokens."
+        }
+    ],
+    "crateInfo": [
+        {
+            "title": "1. Crate Types:",
+            "content": "We offer three types of crates - Bronze, Silver, and Gold. Each crate gives you a set amount of Pepenomy Tokens. Bronze gives 10,000, Silver gives 50,000 and Gold gives 100,000 tokens respectively."
+        },
+        {
+            "title": "2. Crate Pricing and Purchase Limits:",
+            "content": "Bronze Crate is priced at 0.1 BNB, Silver at 0.5 BNB, and Gold at 1 BNB. Each user is allowed to purchase only one of each crate type, making a total of three crate purchases."
+        },
+        {
+            "title": "3. Limited Time and Quantity:",
+            "content": "These crates are available for a limited time and in limited quantities. Once sold out, they may not be available for purchase. Act fast to avoid missing out on these discounted token opportunities!"
+        },
+        {
+            "title": "4. Discounted Token Rates:",
+            "content": "The tokens in the crates are offered at discounted rates compared to the presale price. It's a valuable opportunity to get more tokens for your investment."
+        },
+        {
+            "title": "5. Crate Reward Claiming:",
+            "content": "After purchase, the crate rewards (tokens) will be immediately credited to your wallet. Please note that transfer restrictions may apply as per our token transfer rules."
+        },
+        {
+            "title": "6. Support and Queries:",
+            "content": "For any questions or support needs regarding the crate purchases, please contact our customer support or join our community discussion platforms."
+        }
+    ],
+    "allocationInfo": [
+        {
+            "allocation": "Airdrop",
+            "percentage": "5%",
+            "address": "0xC834906be6A55a6FD4B0186911AeB52a78907365",
+            "isAddressContract": true,
+            "isLocked": false,
+            "lockedDuration": "N/A"
+        },
+        {
+            "allocation": "Marketing",
+            "percentage": "5%",
+            "address": "0x748d70714b6196bf0b1f8735d8aadad5959af69e",
+            "isLocked": false,
+            "lockedDuration": "-"
+        },
+        {
+            "allocation": "Burn",
+            "percentage": "5%",
+            "address": "Dead Address",
+            "isLocked": false,
+            "lockedDuration": "N/A"
+        },
+        {
+            "allocation": "Crate",
+            "percentage": "10%",
+            "address": "0xC834906be6A55a6FD4B0186911AeB52a78907365",
+            "isLocked": false,
+            "isAddressContract": true,
+            "lockedDuration": "N/A"
+        },
+        {
+            "allocation": "NFT Staking",
+            "percentage": "10%",
+            "address": "0x427bf5b37357632377ecbec9de3626c71a5396c1",
+            "isLocked": true,
+            "lockedDuration": "2 MONTHS"
+        },
+        {
+            "allocation": "CEX Listing",
+            "percentage": "10%",
+            "address": "0xa0a64cfe5edba858b26b145c63611dab15bc8a01",
+            "isLocked": true,
+            "lockedDuration": "3 MONTHS"
+        },
+        {
+            "allocation": "Development",
+            "percentage": "10%",
+            "address": "0x881d70cc080cda743bdaa94cdae42a55d07210cf",
+            "isLocked": true,
+            "lockedDuration": "2 MONTHS"
+        },
+        {
+            "allocation": "Staking",
+            "percentage": "15%",
+            "address": "0x881D70Cc080Cda743BDAa94cDAe42A55d07210CF",
+            "isLocked": true,
+            "lockedDuration": "1 MONTH"
+        },
+        {
+            "allocation": "Presale",
+            "percentage": "30%",
+            "address": "0xC834906be6A55a6FD4B0186911AeB52a78907338",
+            "isLocked": "No",
+            "lockedDuration": "-"
+        }
+    ],
+    "airdrop": {
+        "customGasLimit": 142552,
+        "running": false,
+        "useCustomGas": true
+    },
+    "crate": {
+        "customGasLimit": 150000,
+        "running": true,
+        "useCustomGas": true
+    }
+}
