@@ -29,6 +29,24 @@
             "content": "To qualify for the referral bonus, you need to ensure that the wallet you're referring already holds Pepenomy Tokens."
         }
     ],
+    "referralInfo": [
+        {
+            "title": "1. Generating Referral Link:",
+            "content": "A referral link can be generated if the wallet has a positive Pepenomy token balance."
+        },
+        {
+            "title": "2. Referral Bonus Details:",
+            "content": "The referrer earns an extra 50% of the total airdrop amount as a bonus. This doesn't affect the recipient's airdrop amount. Please note that the referral percentage may change."
+        },
+        {
+            "title": "3. Top Wallets Rewards:",
+            "content": "The top 5 wallets with the most tokens before launch can win exclusive rare Pepenomy NFTs. Rrefer more to earn more."
+        },
+        {
+            "title": "4. Duration of the Referral Program:",
+            "content": "The referral program is exclusive for the Airdrop and ends when the airdrop is over."
+        }
+    ],
     "crateInfo": [
         {
             "title": "1. Crate Types:",
