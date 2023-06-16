@@ -142,7 +142,7 @@
     ],
     "airdrop": {
         "customGasLimit": 142552,
-        "running": false,
+        "running": true,
         "useCustomGas": true
     },
     "crate": {
