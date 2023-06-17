@@ -149,5 +149,13 @@
         "customGasLimit": 150000,
         "running": true,
         "useCustomGas": true
+    },
+    "socials": {
+        "telegramBotHandle": "pepewalletx",
+        "telegramGroupHandle": "pepechannelx",
+        "telegramChannelHandle": "pepechannelx",
+        "twitterPageHandle": "thepepemobi",
+        "androidAppPackage": "com.pepemobi.app",
+        "website": "pepemobi.com"
     }
 }
