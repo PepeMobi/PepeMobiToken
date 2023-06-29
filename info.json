@@ -6,11 +6,11 @@
         },
         {
             "title": "2. How to Claim Your Tokens:",
-            "content": "Each participant stands to gain a reward of 24,000 + 16,000 Pepenomy Tokens. Please bear in mind that you're entitled to claim these rewards only twice: once from a mobile device and once from the web."
+            "content": "Each participant stands to gain a reward of 20,000 + 16,000 Pepenomy Tokens. Please bear in mind that you're entitled to claim these rewards only twice: once from a mobile device and once from the web."
         },
         {
             "title": "3. Allocation of Tokens:",
-            "content": "Participants are eligible to claim 16,000 Tokens via the web platform. In addition, they can claim an additional 50% (equating to 24,000 tokens) from the mobile platform. This means each user can garner a maximum of 40,000 tokens in total."
+            "content": "Participants are eligible to claim 16,000 Tokens via the web platform. In addition, they can claim an additional 25% (equating to 20,000 tokens) from the mobile platform. This means each user can garner a maximum of 36,000 tokens in total."
         },
         {
             "title": "4. Referral Program:",
@@ -77,7 +77,7 @@
         {
             "allocation": "Airdrop",
             "percentage": "5%",
-            "address": "0xC834906be6A55a6FD4B0186911AeB52a78907365",
+            "address": "0x186cab9573cb50a961fc07c0df2b7f326d6ee223",
             "isAddressContract": true,
             "isLocked": false,
             "lockedDuration": "N/A"
@@ -85,21 +85,21 @@
         {
             "allocation": "Marketing",
             "percentage": "5%",
-            "address": "0x748d70714b6196bf0b1f8735d8aadad5959af69e",
+            "address": "0xcfa33543cb0db77d523cca178277beff3e5c9cd0",
             "isLocked": false,
             "lockedDuration": "-"
         },
         {
             "allocation": "Burn",
             "percentage": "5%",
-            "address": "Dead Address",
+            "address": "0x000000000000000000000000000000000000dead",
             "isLocked": false,
             "lockedDuration": "N/A"
         },
         {
             "allocation": "Crate",
             "percentage": "10%",
-            "address": "0xC834906be6A55a6FD4B0186911AeB52a78907365",
+            "address": "0x186cab9573cb50a961fc07c0df2b7f326d6ee223",
             "isLocked": false,
             "isAddressContract": true,
             "lockedDuration": "N/A"
@@ -107,35 +107,35 @@
         {
             "allocation": "NFT Staking",
             "percentage": "10%",
-            "address": "0x427bf5b37357632377ecbec9de3626c71a5396c1",
+            "address": "0xd139eeef583e68a4bee01781cce69e847f6140d8",
             "isLocked": true,
             "lockedDuration": "2 MONTHS"
         },
         {
             "allocation": "CEX Listing",
             "percentage": "10%",
-            "address": "0xa0a64cfe5edba858b26b145c63611dab15bc8a01",
+            "address": "0x08b74712b8c66f74fae5546b2097424f5327f198",
             "isLocked": true,
             "lockedDuration": "3 MONTHS"
         },
         {
             "allocation": "Development",
             "percentage": "10%",
-            "address": "0x881d70cc080cda743bdaa94cdae42a55d07210cf",
+            "address": "0x4700e4172d6c837490418dc8bd19a82be10e81f4",
             "isLocked": true,
             "lockedDuration": "2 MONTHS"
         },
         {
             "allocation": "Staking",
             "percentage": "15%",
-            "address": "0x881D70Cc080Cda743BDAa94cDAe42A55d07210CF",
+            "address": "0x7dd223559e26683c328ba5239c860b3e56cae3be",
             "isLocked": true,
             "lockedDuration": "1 MONTH"
         },
         {
             "allocation": "Presale",
             "percentage": "30%",
-            "address": "0xC834906be6A55a6FD4B0186911AeB52a78907338",
+            "address": "0xad8834defad3596fce45c97054baee58572988d1",
             "isLocked": "No",
             "lockedDuration": "-"
         }
