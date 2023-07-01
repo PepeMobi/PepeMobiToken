@@ -1,157 +1,163 @@
 {
-    "airdropInfo": [
-        {
-            "title": "1. Airdrop Eligibility Criteria:",
-            "content": "To qualify for this airdrop, you're required to follow our Twitter and join our Telegram groups and channels."
-        },
-        {
-            "title": "2. How to Claim Your Tokens:",
-            "content": "Each participant stands to gain a reward of 20,000 + 16,000 PepeMobi Tokens. Please bear in mind that you're entitled to claim these rewards only twice: once from a mobile device and once from the web."
-        },
-        {
-            "title": "3. Allocation of Tokens:",
-            "content": "Participants are eligible to claim 16,000 Tokens via the web platform. In addition, they can claim an additional 25% (equating to 20,000 tokens) from the mobile platform. This means each user can garner a maximum of 36,000 tokens in total."
-        },
-        {
-            "title": "4. Referral Program:",
-            "content": "Increase your token count by participating in our referral program. Share your unique referral link and receive a bonus of 50% of the airdrop amount each time a new participant signs up using your link."
-        },
-        {
-            "title": "5. Token Transfer Rules:",
-            "content": "Please note that any tokens earned through this program cannot be transferred to another wallet until the official launch of PepeMobi Tokens. This rule helps us prevent unauthorized users from adding liquidity prior to the launch."
-        },
-        {
-            "title": "6. Duration of the Airdrop:",
-            "content": "This airdrop will continue either until the predetermined end time is reached or until all tokens have been claimed. Don't miss out on this opportunity!"
-        },
-        {
-            "title": "7. Qualifying for the Referral Bonus:",
-            "content": "To qualify for the referral bonus, you need to ensure that the wallet you're referring already holds PepeMobi Tokens."
-        }
-    ],
-    "referralInfo": [
-        {
-            "title": "1. Generating Referral Link:",
-            "content": "A referral link can be generated if the wallet has a positive PepeMobi token balance."
-        },
-        {
-            "title": "2. Referral Bonus Details:",
-            "content": "The referrer earns an extra 50% of the total airdrop amount as a bonus. This doesn't affect the recipient's airdrop amount. Please note that the referral percentage may change."
-        },
-        {
-            "title": "3. Top Wallets Rewards:",
-            "content": "The top 5 wallets with the most tokens before launch can win exclusive rare PepeMobi NFTs. Refer more to earn more."
-        },
-        {
-            "title": "4. Duration of the Referral Program:",
-            "content": "The referral program is exclusive for the Airdrop and ends when the airdrop is over."
-        }
-    ],
-    "crateInfo": [
-        { "title": "1. Crate Types:", "content": "We offer 4 types of crates - Bronze, Silver, Gold & Platinum. Each crate gives you a set amount of PepeMobi Tokens. Bronze gives 500,000, Silver gives 3,000,000, Gold gives 7,500,000, and Platinum gives 20,000,000 tokens respectively." },
-        { "title": "2. Crate Pricing and Purchase Limits:", "content": "Bronze Crate is priced at 0.1 BNB, Silver at 0.5 BNB, Gold at 1 BNB, and Platinum at 2 BNB. Each user is allowed to purchase only one of each crate type, making a total of four crate purchases." },
-        {
-            "title": "3. Limited Time and Quantity:",
-            "content": "These crates are available for a limited time and in limited quantities. Once sold out, they may not be available for purchase. Act fast to avoid missing out on these discounted token opportunities!"
-        },
-        {
-            "title": "4. Discounted Token Rates:",
-            "content": "The tokens in the crates are offered at discounted rates compared to the presale price. It's a valuable opportunity to get more tokens for your investment."
-        },
-        {
-            "title": "5. Crate Reward Claiming:",
-            "content": "After purchase, the crate rewards (tokens) will be immediately credited to your wallet. Please note that transfer restrictions may apply as per our token transfer rules."
-        },
-        {
-            "title": "6. Support and Queries:",
-            "content": "For any questions or support needs regarding the crate purchases, please contact our customer support or join our community discussion platforms."
-        }
-    ],
-    "allocationInfo": [
-        {
-            "allocation": "Airdrop",
-            "percentage": "5%",
-            "address": "0x186cab9573cb50a961fc07c0df2b7f326d6ee223",
-            "isAddressContract": true,
-            "isLocked": false,
-            "lockedDuration": "N/A"
-        },
-        {
-            "allocation": "Marketing",
-            "percentage": "5%",
-            "address": "0xcfa33543cb0db77d523cca178277beff3e5c9cd0",
-            "isLocked": false,
-            "lockedDuration": "-"
-        },
-        {
-            "allocation": "Burn",
-            "percentage": "5%",
-            "address": "0x000000000000000000000000000000000000dead",
-            "isLocked": false,
-            "lockedDuration": "N/A"
-        },
-        {
-            "allocation": "Crate",
-            "percentage": "10%",
-            "address": "0x186cab9573cb50a961fc07c0df2b7f326d6ee223",
-            "isLocked": false,
-            "isAddressContract": true,
-            "lockedDuration": "N/A"
-        },
-        {
-            "allocation": "NFT Staking",
-            "percentage": "10%",
-            "address": "0xd139eeef583e68a4bee01781cce69e847f6140d8",
-            "isLocked": true,
-            "lockedDuration": "2 MONTHS"
-        },
-        {
-            "allocation": "CEX Listing",
-            "percentage": "10%",
-            "address": "0x08b74712b8c66f74fae5546b2097424f5327f198",
-            "isLocked": true,
-            "lockedDuration": "3 MONTHS"
-        },
-        {
-            "allocation": "Development",
-            "percentage": "10%",
-            "address": "0x4700e4172d6c837490418dc8bd19a82be10e81f4",
-            "isLocked": true,
-            "lockedDuration": "2 MONTHS"
-        },
-        {
-            "allocation": "Staking",
-            "percentage": "15%",
-            "address": "0x7dd223559e26683c328ba5239c860b3e56cae3be",
-            "isLocked": true,
-            "lockedDuration": "1 MONTH"
-        },
-        {
-            "allocation": "Presale",
-            "percentage": "30%",
-            "address": "0xad8834defad3596fce45c97054baee58572988d1",
-            "isLocked": "No",
-            "lockedDuration": "-"
-        }
-    ],
-    "airdrop": {
-        "customGasLimit": 142552,
-        "running": false,
-        "useCustomGas": true,
-         "mobRatePerAddress": 20000,
-        "webRatePerAddress": 16000
+  "airdropInfo": [
+    {
+      "title": "1. Airdrop Eligibility Criteria:",
+      "content": "To qualify for this airdrop, you're required to follow our Twitter and join our Telegram groups and channels."
     },
-    "crate": {
-        "customGasLimit": 150000,
-        "running": false,
-        "useCustomGas": true
+    {
+      "title": "2. How to Claim Your Tokens:",
+      "content": "Each participant stands to gain a reward of 20,000 + 16,000 PepeMobi Tokens. Please bear in mind that you're entitled to claim these rewards only twice: once from a mobile device and once from the web."
     },
-    "socials": {
-        "telegramBotHandle": "pepemobibot",
-        "telegramGroupHandle": "pepemobi",
-        "telegramChannelHandle": "pepemobiannouncements",
-        "twitterPageHandle": "thepepemobi",
-        "androidAppPackage": "com.pepemobi.app",
-        "website": "pepemobi.tech"
+    {
+      "title": "3. Allocation of Tokens:",
+      "content": "Participants are eligible to claim 16,000 Tokens via the web platform. In addition, they can claim an additional 25% (equating to 20,000 tokens) from the mobile platform. This means each user can garner a maximum of 36,000 tokens in total."
+    },
+    {
+      "title": "4. Referral Program:",
+      "content": "Increase your token count by participating in our referral program. Share your unique referral link and receive a bonus of 50% of the airdrop amount each time a new participant signs up using your link."
+    },
+    {
+      "title": "5. Token Transfer Rules:",
+      "content": "Please note that any tokens earned through this program cannot be transferred to another wallet until the official launch of PepeMobi Tokens. This rule helps us prevent unauthorized users from adding liquidity prior to the launch."
+    },
+    {
+      "title": "6. Duration of the Airdrop:",
+      "content": "This airdrop will continue either until the predetermined end time is reached or until all tokens have been claimed. Don't miss out on this opportunity!"
+    },
+    {
+      "title": "7. Qualifying for the Referral Bonus:",
+      "content": "To qualify for the referral bonus, you need to ensure that the wallet you're referring already holds PepeMobi Tokens."
     }
+  ],
+  "referralInfo": [
+    {
+      "title": "1. Generating Referral Link:",
+      "content": "A referral link can be generated if the wallet has a positive PepeMobi token balance."
+    },
+    {
+      "title": "2. Referral Bonus Details:",
+      "content": "The referrer earns an extra 50% of the total airdrop amount as a bonus. This doesn't affect the recipient's airdrop amount. Please note that the referral percentage may change."
+    },
+    {
+      "title": "3. Top Wallets Rewards:",
+      "content": "The top 5 wallets with the most tokens before launch can win exclusive rare PepeMobi NFTs. Refer more to earn more."
+    },
+    {
+      "title": "4. Duration of the Referral Program:",
+      "content": "The referral program is exclusive for the Airdrop and ends when the airdrop is over."
+    }
+  ],
+  "crateInfo": [
+    {
+      "title": "1. Crate Types:",
+      "content": "We offer 4 types of crates - Bronze, Silver, Gold & Platinum. Each crate gives you a set amount of PepeMobi Tokens. Bronze gives 500,000, Silver gives 3,000,000, Gold gives 7,500,000, and Platinum gives 20,000,000 tokens respectively."
+    },
+    {
+      "title": "2. Crate Pricing and Purchase Limits:",
+      "content": "Bronze Crate is priced at 0.1 BNB, Silver at 0.5 BNB, Gold at 1 BNB, and Platinum at 2 BNB. Each user is allowed to purchase only one of each crate type, making a total of four crate purchases."
+    },
+    {
+      "title": "3. Limited Time and Quantity:",
+      "content": "These crates are available for a limited time and in limited quantities. Once sold out, they may not be available for purchase. Act fast to avoid missing out on these discounted token opportunities!"
+    },
+    {
+      "title": "4. Discounted Token Rates:",
+      "content": "The tokens in the crates are offered at discounted rates compared to the presale price. It's a valuable opportunity to get more tokens for your investment."
+    },
+    {
+      "title": "5. Crate Reward Claiming:",
+      "content": "After purchase, the crate rewards (tokens) will be immediately credited to your wallet. Please note that transfer restrictions may apply as per our token transfer rules."
+    },
+    {
+      "title": "6. Support and Queries:",
+      "content": "For any questions or support needs regarding the crate purchases, please contact our customer support or join our community discussion platforms."
+    }
+  ],
+  "allocationInfo": [
+    {
+      "allocation": "Presale",
+      "percentage": "20%",
+      "address": "0xad8834defad3596fce45c97054baee58572988d1",
+      "isLocked": "No",
+      "lockedDuration": "-"
+    },
+    {
+      "allocation": "Staking",
+      "percentage": "15%",
+      "address": "0x7dd223559e26683c328ba5239c860b3e56cae3be",
+      "isLocked": true,
+      "lockedDuration": "1 MONTH"
+    },
+    {
+      "allocation": "Burn",
+      "percentage": "15%",
+      "address": "0x000000000000000000000000000000000000dead",
+      "isLocked": false,
+      "lockedDuration": "N/A"
+    },
+    {
+      "allocation": "NFT Staking",
+      "percentage": "10%",
+      "address": "0xd139eeef583e68a4bee01781cce69e847f6140d8",
+      "isLocked": true,
+      "lockedDuration": "2 MONTHS"
+    },
+    {
+      "allocation": "Crate",
+      "percentage": "10%",
+      "address": "0x186cab9573cb50a961fc07c0df2b7f326d6ee223",
+      "isAddressContract": true,
+      "isLocked": false,
+      "lockedDuration": "N/A"
+    },
+    {
+      "allocation": "CEX Listing",
+      "percentage": "10%",
+      "address": "0x08b74712b8c66f74fae5546b2097424f5327f198",
+      "isLocked": true,
+      "lockedDuration": "3 MONTHS"
+    },
+    {
+      "allocation": "Development",
+      "percentage": "10%",
+      "address": "0x4700e4172d6c837490418dc8bd19a82be10e81f4",
+      "isLocked": true,
+      "lockedDuration": "2 MONTHS"
+    },
+    {
+      "allocation": "Marketing",
+      "percentage": "5%",
+      "address": "0xcfa33543cb0db77d523cca178277beff3e5c9cd0",
+      "isLocked": false,
+      "lockedDuration": "-"
+    },
+    {
+      "allocation": "Airdrop",
+      "percentage": "5%",
+      "address": "0x186cab9573cb50a961fc07c0df2b7f326d6ee223",
+      "isAddressContract": true,
+      "isLocked": false,
+      "lockedDuration": "N/A"
+    }
+  ],
+  "airdrop": {
+    "customGasLimit": 142552,
+    "running": false,
+    "useCustomGas": true,
+    "mobRatePerAddress": 20000,
+    "webRatePerAddress": 16000
+  },
+  "crate": {
+    "customGasLimit": 150000,
+    "running": false,
+    "useCustomGas": true
+  },
+  "socials": {
+    "telegramBotHandle": "pepemobibot",
+    "telegramGroupHandle": "pepemobi",
+    "telegramChannelHandle": "pepemobiannouncements",
+    "twitterPageHandle": "thepepemobi",
+    "androidAppPackage": "com.pepemobi.app",
+    "website": "pepemobi.tech"
+  }
 }
