@@ -144,8 +144,8 @@
         "customGasLimit": 142552,
         "running": true,
         "useCustomGas": true,
-         "mobRatePerAddress": 200000,
-        "webRatePerAddress": 160000
+         "mobRatePerAddress": 20000,
+        "webRatePerAddress": 16000
     },
     "crate": {
         "customGasLimit": 150000,
