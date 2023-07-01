@@ -143,7 +143,9 @@
     "airdrop": {
         "customGasLimit": 142552,
         "running": true,
-        "useCustomGas": true
+        "useCustomGas": true,
+         "mobRatePerAddress": 200000,
+        "webRatePerAddress": 160000
     },
     "crate": {
         "customGasLimit": 150000,
