@@ -142,14 +142,14 @@
   ],
   "airdrop": {
     "customGasLimit": 142552,
-    "running": false,
+    "running": true,
     "useCustomGas": true,
     "mobRatePerAddress": 20000,
     "webRatePerAddress": 16000
   },
   "crate": {
     "customGasLimit": 150000,
-    "running": false,
+    "running": true,
     "useCustomGas": true
   },
   "socials": {
