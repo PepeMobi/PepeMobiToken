@@ -77,14 +77,14 @@
     {
       "allocation": "Presale",
       "percentage": "20%",
-      "address": "0xad8834defad3596fce45c97054baee58572988d1",
+      "address": "0x360D242c0b096bB6865463b3035Af555384c4D7D",
       "isLocked": "No",
       "lockedDuration": "-"
     },
     {
       "allocation": "Staking",
       "percentage": "15%",
-      "address": "0x7dd223559e26683c328ba5239c860b3e56cae3be",
+      "address": "0x620066612132a6314173Cb832B0ec7b42cDc8526",
       "isLocked": true,
       "lockedDuration": "1 MONTH"
     },
@@ -98,14 +98,14 @@
     {
       "allocation": "NFT Staking",
       "percentage": "10%",
-      "address": "0xd139eeef583e68a4bee01781cce69e847f6140d8",
+      "address": "0x8042a5ACB5C705bb86D3527A720C8D9b33AD55F4",
       "isLocked": true,
       "lockedDuration": "2 MONTHS"
     },
     {
       "allocation": "Crate",
       "percentage": "10%",
-      "address": "0x186cab9573cb50a961fc07c0df2b7f326d6ee223",
+      "address": "0x2635E4a08c2Ad3f2dAc194B6740211Ac22792ef5",
       "isAddressContract": true,
       "isLocked": false,
       "lockedDuration": "N/A"
@@ -113,28 +113,28 @@
     {
       "allocation": "CEX Listing",
       "percentage": "10%",
-      "address": "0x08b74712b8c66f74fae5546b2097424f5327f198",
+      "address": "0xBFFeE262B69950de675F50A5c3E6590cD6a164b4",
       "isLocked": true,
       "lockedDuration": "3 MONTHS"
     },
     {
       "allocation": "Development",
       "percentage": "10%",
-      "address": "0x4700e4172d6c837490418dc8bd19a82be10e81f4",
+      "address": "0x5eb4fA95c15AEf9a7E58167158b501bd95fcda59",
       "isLocked": true,
       "lockedDuration": "2 MONTHS"
     },
     {
       "allocation": "Marketing",
       "percentage": "5%",
-      "address": "0xcfa33543cb0db77d523cca178277beff3e5c9cd0",
+      "address": "0x013539e4846E6502eFeF02fBBe8e79A3A866668d",
       "isLocked": false,
       "lockedDuration": "-"
     },
     {
       "allocation": "Airdrop",
       "percentage": "5%",
-      "address": "0x186cab9573cb50a961fc07c0df2b7f326d6ee223",
+      "address": "0x2635E4a08c2Ad3f2dAc194B6740211Ac22792ef5",
       "isAddressContract": true,
       "isLocked": false,
       "lockedDuration": "N/A"
