@@ -149,7 +149,7 @@
   },
   "crate": {
     "customGasLimit": 150000,
-    "running": false,
+    "running": true,
     "useCustomGas": true
   },
   "socials": {
