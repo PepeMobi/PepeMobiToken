@@ -1,0 +1,43 @@
+{
+  "name": "PepeMobi #45",
+  "description": "PepeMobi NFTS",
+  "image": "https://raw.githubusercontent.com/PepeMobi/PepeMobiToken/main/nft/45.png",
+  "dna": "b2eb1a24946059dd9abce3c0a1c4bf281e3e6d6d",
+  "edition": 45,
+  "date": 1690019990080,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Plain"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Blue Shirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rage"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Crying"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Trendy Snapback"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Punk Collar"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Thug Life"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

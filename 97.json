@@ -1,0 +1,43 @@
+{
+  "name": "PepeMobi #97",
+  "description": "PepeMobi NFTS",
+  "image": "https://raw.githubusercontent.com/PepeMobi/PepeMobiToken/main/nft/97.png",
+  "dna": "940884bf30a818f927778dc1177349812ca3dad8",
+  "edition": 97,
+  "date": 1690019990942,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pastel Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Suit and Tie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Laugh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Half Open"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Empty"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Cowboy Scarf"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Sleek Sunnies"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

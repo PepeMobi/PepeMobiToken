@@ -1,0 +1,43 @@
+{
+  "name": "PepeMobi #94",
+  "description": "PepeMobi NFTS",
+  "image": "https://raw.githubusercontent.com/PepeMobi/PepeMobiToken/main/nft/94.png",
+  "dna": "616d95a852aa81cdb23458c73a0140e4c9dbd869",
+  "edition": 94,
+  "date": 1690019990895,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Soft Lavender"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Suit and Tie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Laugh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Crying"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Empty"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Choker"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Futuristic"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "PepeMobi #35",
+  "description": "PepeMobi NFTS",
+  "image": "https://raw.githubusercontent.com/PepeMobi/PepeMobiToken/main/nft/35.png",
+  "dna": "064629d4eebbd4c803a729e68d1ab6b1cd15bc10",
+  "edition": 35,
+  "date": 1690019989919,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Suit and Tie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Forced Laugh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Empty"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "None"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Futuristic"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

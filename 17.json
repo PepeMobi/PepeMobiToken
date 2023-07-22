@@ -1,0 +1,43 @@
+{
+  "name": "PepeMobi #17",
+  "description": "PepeMobi NFTS",
+  "image": "https://raw.githubusercontent.com/PepeMobi/PepeMobiToken/main/nft/17.png",
+  "dna": "1b56d107dcdc0bd387fc539be19f6c11ba053a4f",
+  "edition": 17,
+  "date": 1690019989607,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pastel Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Blue Shirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Laugh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Half Open"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Girly Twin Braids"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Punk Collar"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Sleek Sunnies"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

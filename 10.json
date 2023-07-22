@@ -1,0 +1,43 @@
+{
+  "name": "PepeMobi #10",
+  "description": "PepeMobi NFTS",
+  "image": "https://raw.githubusercontent.com/PepeMobi/PepeMobiToken/main/nft/10.png",
+  "dna": "3f6f412c6842184bcd9f23bef394b6b5b59411e5",
+  "edition": 10,
+  "date": 1690019989484,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Soft Lavender"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Dance Poncho"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rage"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Half Open"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Flat Brim Cap"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "None"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Futuristic"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

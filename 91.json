@@ -1,0 +1,43 @@
+{
+  "name": "PepeMobi #91",
+  "description": "PepeMobi NFTS",
+  "image": "https://raw.githubusercontent.com/PepeMobi/PepeMobiToken/main/nft/91.png",
+  "dna": "487a8685b5c62a4337d150e93eb15730338f7d7c",
+  "edition": 91,
+  "date": 1690019990847,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Coral Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Suit and Tie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Neutral"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Half Open"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Flat Brim Cap"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Gold Dollar Chain"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Sleek Sunnies"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

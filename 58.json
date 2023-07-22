@@ -1,0 +1,43 @@
+{
+  "name": "PepeMobi #58",
+  "description": "PepeMobi NFTS",
+  "image": "https://raw.githubusercontent.com/PepeMobi/PepeMobiToken/main/nft/58.png",
+  "dna": "4452283b6d5ae4b92703147bc647c5da0eeaccf5",
+  "edition": 58,
+  "date": 1690019990305,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Plain"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Suit and Tie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Miner's Helmet"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Gold Dollar Chain"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Classic"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

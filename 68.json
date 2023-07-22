@@ -1,0 +1,43 @@
+{
+  "name": "PepeMobi #68",
+  "description": "PepeMobi NFTS",
+  "image": "https://raw.githubusercontent.com/PepeMobi/PepeMobiToken/main/nft/68.png",
+  "dna": "e89dab845f3948a291c249d2eca24d7536edcb6a",
+  "edition": 68,
+  "date": 1690019990459,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Kim Jong"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Laugh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Daydreaming"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Classy Hat"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Punk Collar"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "VR Set"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

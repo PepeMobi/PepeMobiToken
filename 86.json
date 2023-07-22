@@ -1,0 +1,43 @@
+{
+  "name": "PepeMobi #86",
+  "description": "PepeMobi NFTS",
+  "image": "https://raw.githubusercontent.com/PepeMobi/PepeMobiToken/main/nft/86.png",
+  "dna": "566c3d7b7dbe83f52eed8dd7045d69d5c0fec4e3",
+  "edition": 86,
+  "date": 1690019990773,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Coral Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Blue Shirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Forced Laugh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Girly Twin Braids"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Cowboy Scarf"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Classic"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "PepeMobi #26",
+  "description": "PepeMobi NFTS",
+  "image": "https://raw.githubusercontent.com/PepeMobi/PepeMobiToken/main/nft/26.png",
+  "dna": "0b5e2cf2a3146393bf2140695266c88ff41a1a03",
+  "edition": 26,
+  "date": 1690019989753,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mint Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Kim Jong"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Forced Laugh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Classy Hat"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "None"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Classic"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "PepeMobi #70",
+  "description": "PepeMobi NFTS",
+  "image": "https://raw.githubusercontent.com/PepeMobi/PepeMobiToken/main/nft/70.png",
+  "dna": "b103b77490d1632216725544b5fb2aa074448125",
+  "edition": 70,
+  "date": 1690019990496,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Camp Shirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rage"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Half Open"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Classy Hat"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Gold Dollar Chain"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "blank"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

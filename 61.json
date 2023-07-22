@@ -1,0 +1,43 @@
+{
+  "name": "PepeMobi #61",
+  "description": "PepeMobi NFTS",
+  "image": "https://raw.githubusercontent.com/PepeMobi/PepeMobiToken/main/nft/61.png",
+  "dna": "cbb962d15618a4f6a3bf3294c053beb3f367f1a5",
+  "edition": 61,
+  "date": 1690019990352,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Coral Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Camp Shirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rage"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Crying"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Trendy Snapback"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Cowboy Scarf"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "VR Set"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "PepeMobi #33",
+  "description": "PepeMobi NFTS",
+  "image": "https://raw.githubusercontent.com/PepeMobi/PepeMobiToken/main/nft/33.png",
+  "dna": "36b05d2be9ab88e7a1edad05253611c61d7086c1",
+  "edition": 33,
+  "date": 1690019989887,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Soft Lavender"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Suit and Tie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Laugh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Girly Twin Braids"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Cowboy Scarf"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "blank"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

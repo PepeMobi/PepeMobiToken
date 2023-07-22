@@ -1,0 +1,43 @@
+{
+  "name": "PepeMobi #36",
+  "description": "PepeMobi NFTS",
+  "image": "https://raw.githubusercontent.com/PepeMobi/PepeMobiToken/main/nft/36.png",
+  "dna": "2b0dfabc3923029ccf98b59dd8494223f70a8b1c",
+  "edition": 36,
+  "date": 1690019989932,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Plain"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Dance Poncho"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Neutral"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Crying"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Classy Hat"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Cowboy Scarf"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "blank"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

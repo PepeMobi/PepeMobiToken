@@ -1,0 +1,43 @@
+{
+  "name": "PepeMobi #12",
+  "description": "PepeMobi NFTS",
+  "image": "https://raw.githubusercontent.com/PepeMobi/PepeMobiToken/main/nft/12.png",
+  "dna": "1c117a62ea80d23c520c4348c42b52d845ee0a85",
+  "edition": 12,
+  "date": 1690019989518,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pastel Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Blue Shirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Forced Laugh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Daydreaming"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Girly Twin Braids"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Gold Dollar Chain"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Thug Life"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

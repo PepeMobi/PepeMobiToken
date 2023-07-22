@@ -1,0 +1,43 @@
+{
+  "name": "PepeMobi #73",
+  "description": "PepeMobi NFTS",
+  "image": "https://raw.githubusercontent.com/PepeMobi/PepeMobiToken/main/nft/73.png",
+  "dna": "84f6f0ae916ee178b267c70f9fb0c6b677f8d394",
+  "edition": 73,
+  "date": 1690019990561,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mint Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Camp Shirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Neutral"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Miner's Helmet"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Cowboy Scarf"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Thug Life"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
