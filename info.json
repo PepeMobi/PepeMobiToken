@@ -74,72 +74,43 @@
     }
   ],
   "allocationInfo": [
-    {
-      "allocation": "Presale",
-      "percentage": "20%",
-      "address": "0x360D242c0b096bB6865463b3035Af555384c4D7D",
-      "isLocked": "No",
-      "lockedDuration": "-"
-    },
-    {
-      "allocation": "Staking",
-      "percentage": "15%",
-      "address": "0x620066612132a6314173Cb832B0ec7b42cDc8526",
-      "isLocked": true,
-      "lockedDuration": "1 MONTH"
-    },
-    {
-      "allocation": "Burn",
-      "percentage": "15%",
-      "address": "0x000000000000000000000000000000000000dead",
-      "isLocked": false,
-      "lockedDuration": "N/A"
-    },
-    {
-      "allocation": "NFT Staking",
-      "percentage": "10%",
-      "address": "0x8042a5ACB5C705bb86D3527A720C8D9b33AD55F4",
-      "isLocked": true,
-      "lockedDuration": "2 MONTHS"
-    },
-    {
-      "allocation": "Crate",
-      "percentage": "10%",
-      "address": "0x2635E4a08c2Ad3f2dAc194B6740211Ac22792ef5",
-      "isAddressContract": true,
-      "isLocked": false,
-      "lockedDuration": "N/A"
-    },
-    {
-      "allocation": "CEX Listing",
-      "percentage": "10%",
-      "address": "0xBFFeE262B69950de675F50A5c3E6590cD6a164b4",
-      "isLocked": true,
-      "lockedDuration": "3 MONTHS"
-    },
-    {
-      "allocation": "Development",
-      "percentage": "10%",
-      "address": "0x5eb4fA95c15AEf9a7E58167158b501bd95fcda59",
-      "isLocked": true,
-      "lockedDuration": "2 MONTHS"
-    },
-    {
-      "allocation": "Marketing",
-      "percentage": "5%",
-      "address": "0x013539e4846E6502eFeF02fBBe8e79A3A866668d",
-      "isLocked": false,
-      "lockedDuration": "-"
-    },
-    {
-      "allocation": "Airdrop",
-      "percentage": "5%",
-      "address": "0x2635E4a08c2Ad3f2dAc194B6740211Ac22792ef5",
-      "isAddressContract": true,
-      "isLocked": false,
-      "lockedDuration": "N/A"
-    }
-  ],
+  {
+    "value": 11,
+    "label": "Presale",
+    "address": "0x332D9481333DE603c4c464154d3088c0aDfA0bAB"
+  },
+  {
+    "value": 5.5,
+    "label": "Liquidity",
+    "address": "0x332D9481333DE603c4c464154d3088c0aDfA0bAB"
+  },
+  {
+    "value": 76,
+    "label": "Burn",
+    "address": "0x000000000000000000000000000000000000dead"
+  },
+  {
+    "value": 3,
+    "label": "CEX Listing",
+    "address": "0x407993575c91ce7643a4d4ccacc9a98c36ee1bbe"
+  },
+  {
+    "value": 2.5,
+    "label": "NFT Staking",
+    "address": "0x407993575c91ce7643a4d4ccacc9a98c36ee1bbe"
+  },
+  {
+    "value": 1.5,
+    "label": "Development",
+    "address": "0x407993575c91ce7643a4d4ccacc9a98c36ee1bbe"
+  },
+  {
+    "value": 0.5,
+    "label": "Airdrop",
+    "address": "0x2635E4a08c2Ad3f2dAc194B6740211Ac22792ef5",
+    "isAddressContract": true
+  }
+],
   "airdrop": {
     "customGasLimit": 142552,
     "running": true,
